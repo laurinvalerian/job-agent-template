@@ -1,0 +1,13 @@
+# Test-Person für die automatischen Tests (keine echten Daten).
+id: test
+name: Test Person
+short_name: Test Person
+first_name: Test
+street: Teststrasse 1
+zip_city: 6000 Luzern
+place: Luzern
+phone: +41 00 000 00 00
+email: test.person@example.com
+file_prefix: Test_Person
+worker_url: https://example.invalid
+rav: false

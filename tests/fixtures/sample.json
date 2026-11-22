@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-03-muster-ag",
+  "kind": "initiativ",
+  "role": "Junior SOC Analyst (Initiativ)",
+  "company_domain": "muster-security.ch",
+  "lang": "de",
+  "date": "2026-11-03",
+  "score": 8.5,
+  "reason": "Testfall: SOC in Rotkreuz, Einstiegsprogramm, direkt am HSLU-Campus.",
+  "sources": [
+    "https://example.com/muster-security/blog"
+  ],
+  "recipient": {
+    "company": "Muster Security AG",
+    "person": "z. Hd. Frau Anna Muster, Leiterin Cyber Defence Center",
+    "street": "Suurstoffi 99",
+    "zip_city": "6343 Rotkreuz"
+  },
+  "subject": "Initiativbewerbung: Einstieg im Cyber Defence Center, 100% ab November 2026, ab Februar 2027 40 bis 60%",
+  "salutation": "Sehr geehrte Frau Muster",
+  "paragraphs": [
+    "In Ihrem Blogbeitrag zur Phishing-Welle gegen Zentralschweizer Gemeinden beschreiben Sie, dass die meisten Vorfälle an einer einzigen übersehenen Weiterleitungsregel hingen. Genau diese Art Detailarbeit reizt mich, und deshalb melde ich mich initiativ bei Ihnen.",
+    "Ich schliesse am 30. Oktober 2026 die Rekrutenschule als Funkaufklärer ab und bin ab dem 2. November 2026 zu 100% verfügbar. Im Februar 2027 beginne ich an der HSLU in Rotkreuz den berufsbegleitenden Bachelor in Information & Cyber Security und würde dann gerne mit 40 bis 60% bei Ihnen weiterarbeiten. Ihr Standort liegt fünf Minuten vom Campus entfernt.",
+    "Mein Lebenslauf zeigt vor allem Paketzustellung, Montage und Gastronomie, darum das Wesentliche hier: Im SPARC-Programm der Armee habe ich alle drei Stufen abgeschlossen, darunter Blue Team Fundamentals, Linux Security und Web Security. Im August habe ich zudem AZ-900 und SC-900 bestanden. Produktionserfahrung in einem SOC habe ich noch keine, aber ich lerne schnell und aus eigenem Antrieb.",
+    "Als Schichtleiter bei der STASH AG habe ich einen Standort nach Checklisten und SOPs geführt und in Spitzenzeiten den Überblick behalten. Schichtbetrieb, klare Abläufe und Verlässlichkeit sind für mich deshalb nichts Neues, das bestätigen auch meine Zeugnisse der Post und von dasteam.",
+    "Über ein Gespräch, gerne auch unverbindlich, würde ich mich sehr freuen."
+  ],
+  "attachments": [
+    "lebenslauf",
+    "zeugnis-stash",
+    "zeugnis-post",
+    "zeugnis-dasteam",
+    "zeugnis-abc-kindertreff",
+    "bestaetigung-roche",
+    "sparc-3020",
+    "sparc-3150",
+    "sparc-3170",
+    "sparc-4020",
+    "sc-900",
+    "az-900",
+    "hslu-aufnahme"
+  ],
+  "hslu": {
+    "attach": true,
+    "reason": "Teilzeit neben dem Studium an der HSLU ab Februar 2027, Campus fünf Minuten entfernt."
+  },
+  "email": {
+    "to": "jobs@muster-security.ch",
+    "to_name": "Anna Muster",
+    "subject": "Initiativbewerbung: Einstieg im Cyber Defence Center, 100% ab November 2026, ab Februar 2027 40 bis 60%",
+    "body": "Sehr geehrte Frau Muster\n\nIn Ihrem Blogbeitrag zur Phishing-Welle habe ich gesehen, wie Ihr Cyber Defence Center arbeitet, und ich möchte mich sehr gerne initiativ bei Ihnen bewerben. Ich wäre ab November 2026 zu 100% verfügbar und würde ab Februar 2027 gerne neben meinem Studium an der HSLU zu 40 bis 60% bei Ihnen weiterarbeiten.\n\nDas SPARC-Programm der Armee habe ich abgeschlossen, und als Schichtleiter habe ich gelernt, auch unter Druck den Überblick zu behalten.\n\nIm Anhang finden Sie mein Anschreiben, meinen Lebenslauf sowie meine Zeugnisse und Zertifikate. Vielen Dank, dass Sie sich Zeit für meine Unterlagen nehmen. Ich freue mich sehr auf Ihre Rückmeldung.\n\nFreundliche Grüsse\nMax Muster\nJunkerstrasse 13, 6280 Hochdorf\n+41 78 612 47 45"
+  }
+}

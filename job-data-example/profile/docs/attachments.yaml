@@ -1,0 +1,165 @@
+# Beilagen-Register: id -> Datei (relativ zu profile/docs), Gruppe, Bezeichnung de/en.
+# 'lebenslauf' muss existieren und ist immer die erste Beilage.
+# Pro Gruppe geht bei Mail-Bewerbungen ein PDF mit (Dateiname file_de/file_en + _<file_prefix>.pdf).
+# always: true = bei Mail-Bewerbungen immer alle Beilagen dieser Gruppe.
+groups:
+  zeugnis:
+    de: Arbeitszeugnisse
+    en: References
+    file_de: Arbeitszeugnisse
+    file_en: References
+    always: true
+  sparc:
+    de: SPARC-Zertifikate
+    en: SPARC certificates
+    file_de: SPARC_Zertifikate
+    file_en: SPARC_Certificates
+    # always hier nicht, weil die Test-Daten die einzelnen Module enthalten
+  microsoft:
+    de: Microsoft-Zertifikate
+    en: Microsoft certificates
+    file_de: Microsoft_Zertifikate
+    file_en: Microsoft_Certificates
+    always: true
+  hslu:
+    de: Aufnahmebestätigung HSLU
+    en: HSLU admission confirmation
+    file_de: Aufnahmebestaetigung_HSLU
+    file_en: HSLU_Admission
+    compact: true   # im Brief nur der Titel
+attachments:
+- id: lebenslauf
+  file: lebenslauf.pdf
+  group: cv
+  de: Lebenslauf
+  en: CV
+- id: zeugnis-stash
+  file: zeugnis-stash.pdf
+  group: zeugnis
+  de: STASH AG
+  en: STASH AG
+- id: zeugnis-post
+  file: zeugnis-post.pdf
+  group: zeugnis
+  de: Post CH AG
+  en: Post CH AG
+- id: zeugnis-dasteam
+  file: zeugnis-dasteam.pdf
+  group: zeugnis
+  de: dasteam ag
+  en: dasteam ag
+- id: zeugnis-abc-kindertreff
+  file: zeugnis-abc-kindertreff.pdf
+  group: zeugnis
+  de: KiTa ABC-Kindertreff
+  en: ABC-Kindertreff daycare
+- id: bestaetigung-roche
+  file: bestaetigung-roche.pdf
+  group: zeugnis
+  de: Roche (Arbeitsbestätigung)
+  en: Roche (employment confirmation)
+- id: sparc-alle
+  file: sparc-zertifikate.pdf
+  group: sparc
+  de: alle 14 Module und 2 Experience Days
+  en: all 14 modules and 2 Experience Days
+- id: az-900
+  file: az-900.pdf
+  group: microsoft
+  de: AZ-900
+  en: AZ-900
+- id: sc-900
+  file: sc-900.pdf
+  group: microsoft
+  de: SC-900
+  en: SC-900
+- id: hslu-aufnahme
+  file: hslu-aufnahme.pdf
+  group: hslu
+  de: Aufnahmebestätigung HSLU
+  en: HSLU admission confirmation
+- id: jahreszeugnis-matura
+  file: jahreszeugnis-matura.pdf
+  group: schule
+  de: Jahreszeugnis Maturajahr
+  en: Final-year school report
+- id: sparc-1010
+  file: sparc/sparc-1010.pdf
+  group: sparc
+  de: 1010 Discover the Cyber World
+  en: 1010 Discover the Cyber World
+- id: sparc-2010
+  file: sparc/sparc-2010.pdf
+  group: sparc
+  de: 2010 Basic Skills of a Cyber Warrior
+  en: 2010 Basic Skills of a Cyber Warrior
+- id: sparc-2020
+  file: sparc/sparc-2020.pdf
+  group: sparc
+  de: 2020 Coding Basics in Python
+  en: 2020 Coding Basics in Python
+- id: sparc-2040
+  file: sparc/sparc-2040.pdf
+  group: sparc
+  de: 2040 Network Engineering Basics
+  en: 2040 Network Engineering Basics
+- id: sparc-2050
+  file: sparc/sparc-2050.pdf
+  group: sparc
+  de: 2050 Linux Engineering Basics
+  en: 2050 Linux Engineering Basics
+- id: sparc-2060
+  file: sparc/sparc-2060.pdf
+  group: sparc
+  de: 2060 Windows Engineering Basics
+  en: 2060 Windows Engineering Basics
+- id: sparc-2070
+  file: sparc/sparc-2070.pdf
+  group: sparc
+  de: 2070 Web Technologies Basics
+  en: 2070 Web Technologies Basics
+- id: sparc-3010
+  file: sparc/sparc-3010.pdf
+  group: sparc
+  de: 3010 Security Basics
+  en: 3010 Security Basics
+- id: sparc-3011
+  file: sparc/sparc-3011.pdf
+  group: sparc
+  de: 3011 Security Frameworks
+  en: 3011 Security Frameworks
+- id: sparc-3020
+  file: sparc/sparc-3020.pdf
+  group: sparc
+  de: 3020 Blue Team Fundamentals
+  en: 3020 Blue Team Fundamentals
+- id: sparc-3080
+  file: sparc/sparc-3080.pdf
+  group: sparc
+  de: 3080 OSINT and OPSEC
+  en: 3080 OSINT and OPSEC
+- id: sparc-3150
+  file: sparc/sparc-3150.pdf
+  group: sparc
+  de: 3150 Linux Security
+  en: 3150 Linux Security
+- id: sparc-3170
+  file: sparc/sparc-3170.pdf
+  group: sparc
+  de: 3170 Web Security
+  en: 3170 Web Security
+- id: sparc-4020
+  file: sparc/sparc-4020.pdf
+  group: sparc
+  de: 4020 Offensive Operations
+  en: 4020 Offensive Operations
+- id: sparc-experience-luzern
+  file: sparc/sparc-experience-luzern.pdf
+  group: sparc
+  de: Experience Day Luzern
+  en: Experience Day Luzern
+- id: sparc-experience-bern
+  file: sparc/sparc-experience-bern.pdf
+  group: sparc
+  de: Experience Day Bern
+  en: Experience Day Bern

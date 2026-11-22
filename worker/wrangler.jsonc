@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "job-agent",
+  "main": "src/index.ts",
+  // TODO: eigene Cloudflare account_id eintragen (npx wrangler whoami)
+  "account_id": "TODO",
+  "compatibility_date": "2026-09-20",
+  // Nur Free-Plan-Bindings: D1, KV, Workers AI (Free-Kontingent, bei Limit Fehler statt Kosten)
+  "d1_databases": [
+    // TODO: database_id aus `npx wrangler d1 create job-agent`
+    { "binding": "DB", "database_name": "job-agent", "database_id": "TODO" }
+  ],
+  "kv_namespaces": [
+    // TODO: id aus `npx wrangler kv namespace create FILES`
+    { "binding": "FILES", "id": "TODO" }
+  ],
+  "ai": { "binding": "AI" },
+  "vars": {
+    "SENDER_NAME": "Max Muster",
+    "SENDER_EMAIL": "max.muster@example.com",
+    "DAILY_BRAKE": "20",
+    "TZ_NAME": "Europe/Zurich"
+  },
+  // Genau ein Cron; alle Zeitlogik rechnet in Europe/Zurich
+  "triggers": { "crons": ["*/5 * * * *"] }
+}

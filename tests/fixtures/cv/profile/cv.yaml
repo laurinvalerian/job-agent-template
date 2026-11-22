@@ -1,0 +1,55 @@
+# Fiktive Test-Person für tests/test_cv.py (keine echten Daten).
+photo: foto.png
+personal:
+  - label: Geburtsdatum
+    label_en: Date of birth
+    value: 1. Januar 1990
+    value_en: 1 January 1990
+education:
+  - id: hf-test
+    from: "2025-01"
+    to: "2027-12"
+    title: Testtechnikerin HF
+    institution: Testschule, Luzern
+    note: berufsbegleitend
+experience:
+  - id: aktuell
+    from: "2024-03"
+    role: Produktionsmitarbeiterin
+    role_en: Production Worker
+    company: Muster AG
+    location: Luzern
+    tasks:
+      - Bedienung von Verpackungsanlagen
+      - Qualitätskontrolle nach Prüfplan
+      - Reinigung und Wartung der Linie
+  - id: vorher
+    from: "2019-06"
+    to: "2024-02"
+    role: Lageristin
+    company: Beispiel GmbH
+    note: 06.2019 bis 12.2019 temporär
+    tasks:
+      - Wareneingang und Kommissionierung
+      - Inventur
+  - id: alt
+    from: "2008-01"
+    to: "2010-12"
+    role: Aushilfe
+    company: Alt AG
+    tasks:
+      - Mithilfe im Verkauf
+skills:
+  - group: fach
+    title: Fachkenntnisse
+    title_en: Professional skills
+    items:
+      - {id: anlagen, label: Anlagen, text: Bedienung und Wartung}
+      - {id: qualitaet, label: Qualität, text: Prüfung nach Plan}
+  - group: it
+    title: Technische Kenntnisse
+    items:
+      - {id: office, label: Office, text: Gute Kenntnisse}
+languages:
+  - {language: Deutsch, language_en: German, level: Muttersprache, level_en: Native}
+hobbies: [Wandern, Lesen]

@@ -1,0 +1,203 @@
+[
+ {
+  "jobAdvertisement": {
+   "id": "da17ba9e-cf20-44a9-bc9f-7be2b0971f29",
+   "publication": {
+    "startDate": "2026-10-09"
+   },
+   "jobContent": {
+    "jobDescriptions": [
+     {
+      "languageIsoCode": "de",
+      "title": "Schreiner/in EFZ (m/w/d) Lehrabgänger willkommen I Luzern, Obwalden, Nidwalden, Schwyz & Zug",
+      "description": "Stellenbeschreibung\n\nDeine Einsatzmöglichkeiten\nBei unseren Kunden erwarten dich"
+     }
+    ],
+    "company": {
+     "name": "leteam ressources humaines",
+     "street": null,
+     "houseNumber": null,
+     "postalCode": "6003",
+     "city": "Luzern",
+     "countryIsoCode": "CH",
+     "postOfficeBoxNumber": null,
+     "postOfficeBoxPostalCode": null,
+     "postOfficeBoxCity": null,
+     "phone": null,
+     "email": null,
+     "website": null,
+     "surrogate": false
+    },
+    "location": {
+     "id": null,
+     "remarks": null,
+     "city": "Luzern",
+     "postalCode": "6003",
+     "communalCode": "1061",
+     "regionCode": "LU01",
+     "cantonCode": "LU",
+     "countryIsoCode": "CH",
+     "coordinates": {
+      "lon": "8.297",
+      "lat": "47.05"
+     }
+    },
+    "employment": {
+     "startDate": null,
+     "endDate": null,
+     "shortEmployment": false,
+     "immediately": true,
+     "permanent": false,
+     "workloadPercentageMin": "100",
+     "workloadPercentageMax": "100",
+     "workForms": []
+    },
+    "applyChannel": {
+     "rawPostAddress": null,
+     "postAddress": null,
+     "emailAddress": null,
+     "phoneNumber": null,
+     "formUrl": "https://www.more-jobs.ch/emploi/schreiner-m-w-lehrabganger-willkommen-i-luzern-obwalden-nidwalden-schwyz-zug-300569.html?utm_source=job-room.ch&utm_medium=job-board&utm_campaign=jobroom-publication&utm_content=morejobs_db-300569",
+     "additionalInfo": null
+    },
+    "publicContact": null
+   }
+  }
+ },
+ {
+  "jobAdvertisement": {
+   "id": "a3f70140-c9ac-4d5b-bdcc-9f4d3fb983d7",
+   "publication": {
+    "startDate": "2026-10-09"
+   },
+   "jobContent": {
+    "jobDescriptions": [
+     {
+      "languageIsoCode": "de",
+      "title": "Fachverantwortliche/r Finanzbuchhaltung (80 – 100 %)",
+      "description": "Als <em>Produktions</em>\\- und Handelsbetrieb bieten wir unserer Kundschaft ein "
+     }
+    ],
+    "company": {
+     "name": "Granol AG",
+     "street": null,
+     "houseNumber": null,
+     "postalCode": "6210",
+     "city": "Sursee",
+     "countryIsoCode": "CH",
+     "postOfficeBoxNumber": null,
+     "postOfficeBoxPostalCode": null,
+     "postOfficeBoxCity": null,
+     "phone": null,
+     "email": null,
+     "website": null,
+     "surrogate": false
+    },
+    "location": {
+     "id": null,
+     "remarks": null,
+     "city": "Sursee",
+     "postalCode": "6210",
+     "communalCode": "1103",
+     "regionCode": "LU02",
+     "cantonCode": "LU",
+     "countryIsoCode": "CH",
+     "coordinates": {
+      "lon": "8.109",
+      "lat": "47.173"
+     }
+    },
+    "employment": {
+     "startDate": null,
+     "endDate": null,
+     "shortEmployment": false,
+     "immediately": false,
+     "permanent": true,
+     "workloadPercentageMin": "100",
+     "workloadPercentageMax": "100",
+     "workForms": []
+    },
+    "applyChannel": {
+     "rawPostAddress": null,
+     "postAddress": null,
+     "emailAddress": null,
+     "phoneNumber": null,
+     "formUrl": "https://www.jobscout24.ch/de/job/c60b1029-23d8-41d8-aa17-86955d4c32f0/?utm_source=job-room.ch&utm_medium=affiliate&utm_campaign=wb:jobscout24|tg:b2c|cn:ch|lg:de|ct:targeting,nonbrand,job|cd:feedonomics-jobroom|mg:job-application|pd:n|tt:organic",
+     "additionalInfo": null
+    },
+    "publicContact": null
+   }
+  }
+ },
+ {
+  "jobAdvertisement": {
+   "id": "362578a4-87ef-4325-9f6f-45b58d3e8708",
+   "publication": {
+    "startDate": "2026-10-09"
+   },
+   "jobContent": {
+    "jobDescriptions": [
+     {
+      "languageIsoCode": "de",
+      "title": "Schreiner",
+      "description": "### Das bringst Du mit:\n\n* Schreiner EFZ\n\n* Erfahrung im Fenster- oder Türenbau "
+     }
+    ],
+    "company": {
+     "name": "Anker Swiss ZP AG",
+     "street": "Glockenstrasse 1",
+     "houseNumber": null,
+     "postalCode": "6210",
+     "city": "Sursee",
+     "countryIsoCode": "CH",
+     "postOfficeBoxNumber": null,
+     "postOfficeBoxPostalCode": null,
+     "postOfficeBoxCity": null,
+     "phone": "+41412442400",
+     "email": "backoffice@anker-swiss.ch",
+     "website": "https://www.anker-swiss.ch",
+     "surrogate": true
+    },
+    "location": {
+     "id": null,
+     "remarks": null,
+     "city": "Winikon",
+     "postalCode": "6235",
+     "communalCode": "1104",
+     "regionCode": "LU02",
+     "cantonCode": "LU",
+     "countryIsoCode": "CH",
+     "coordinates": {
+      "lon": "8.049",
+      "lat": "47.237"
+     }
+    },
+    "employment": {
+     "startDate": "2026-11-02",
+     "endDate": null,
+     "shortEmployment": false,
+     "immediately": false,
+     "permanent": true,
+     "workloadPercentageMin": "100",
+     "workloadPercentageMax": "100",
+     "workForms": []
+    },
+    "applyChannel": {
+     "rawPostAddress": null,
+     "postAddress": null,
+     "emailAddress": "a.reimann@anker-swiss.ch",
+     "phoneNumber": "+41412442405",
+     "formUrl": null,
+     "additionalInfo": null
+    },
+    "publicContact": {
+     "salutation": "MR",
+     "firstName": "Andrin",
+     "lastName": "Reimann",
+     "phone": "+41412442405",
+     "email": "a.reimann@anker-swiss.ch"
+    }
+   }
+  }
+ }
+]
